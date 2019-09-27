@@ -1,3 +1,19 @@
 # Description of your program (part 7)
 
+When we count words, we start at 0. A char, or a character, is a data type that is made of letters,
+characters, and numbers. Sometimes, there can be multiple characters placed together to create a 
+string of characters. When there is a space following a character, that indicates one word. 
+When we see a new word, we add 1 to our count. So our first word would make our count 1, the 
+second 2, the third 3, and so on.
+
 # Reflection on writing your program (part 8)
+
+To be honest, this exercise was the easiest step in this entire documentation. It’s a bit difficult
+to determine what baseline understanding someone has in order to determine what’s common language 
+for both the writer and the user. While counting words seems like a basic task, this is actually
+a lot more difficult to write out as instructions!
+
+As for this course, I'm looking forward to understanding how to write with Python and use GitHub.
+I suppose in the long term, I want to be able to learn a baseline understanding of programming to
+be able to learn on my own how to make functional / interactive prototypes and possibly write up 
+my own portfolio!
